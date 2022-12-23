@@ -1,4 +1,8 @@
 hi helloZZZ
 
 this is new GIT 
+<<<<<<< HEAD
 this is about undocommands 
+=======
+and also new DevOPS
+>>>>>>> origin
